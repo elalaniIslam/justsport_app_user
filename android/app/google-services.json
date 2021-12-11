@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "384692348205",
+    "firebase_url": "https://pfe-projet-d2a50.firebaseio.com",
+    "project_id": "pfe-projet-d2a50",
+    "storage_bucket": "pfe-projet-d2a50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384692348205:android:428c853133ceafd0fb5fa4",
+        "android_client_info": {
+          "package_name": "islamelalani.pfeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384692348205-jta1reobgh7l1q2nu5mp07vrnkai4q63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhCzHqVgpEIg-eRBkL2qYeZl87BWHn3n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384692348205-jta1reobgh7l1q2nu5mp07vrnkai4q63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
